@@ -15,7 +15,7 @@ public class Morpion {
                 System.out.print(" | " + grille[i][j]);
             }
             
-            System.out.println(" | ║");
+            System.out.println(" |    ║");
         }
         System.out.println("  ║    --- --- ---  ║");
 

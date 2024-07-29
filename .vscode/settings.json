@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "files.exclude": {
+      "node_modules": true,
+      ".git": true,
+      "__CREATED_BY_JAVA_LANGUAGE_SERVER__": true
+  }
+}

@@ -1,5 +1,5 @@
 # Morpion
 
-Voici une image du jeu Morpion :
+Image du jeu Morpion :
 
 ![Morpion](screenMorpion.png)

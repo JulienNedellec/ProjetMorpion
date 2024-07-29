@@ -12,10 +12,10 @@ public class Morpion {
             System.out.println("  ║    --- --- ---  ║");
             System.out.print("  ║ " + (i + 1) + " | " + grille[i][0]);
             for(int j = 1 ; j < 3 ; j++) {
-                System.out.print(" | " + grille[i][j]);
+                System.out.print("  | " + grille[i][j]);
             }
             
-            System.out.println(" |    ║");
+            System.out.println("  | ║");
         }
         System.out.println("  ║    --- --- ---  ║");
 
